@@ -110,7 +110,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-
+.idea
 # Sublime Text #
 *.tmlanguage.cache
 *.tmPreferences.cache
